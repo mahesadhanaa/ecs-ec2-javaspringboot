@@ -14,7 +14,7 @@ ECS_TASK_DEFINITION_NAME='auth-task'
 # Name of the ECR
 ECR_NAME='auth'
 # URI of the ECR
-ECR_URI='095328455918.dkr.ecr.us-east-2.amazonaws.com'
+ECR_URI=''
 # Current timestamp, to use as a version tag.
 VERSION=$(date +%s)
 # Minimum targe AWS CLI version
